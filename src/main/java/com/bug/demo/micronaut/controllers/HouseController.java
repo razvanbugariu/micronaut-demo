@@ -1,6 +1,6 @@
 package com.bug.demo.micronaut.controllers;
 
-import com.bug.demo.micronaut.entities.HouseDTO;
+import com.bug.demo.micronaut.entities.unidirectional.HouseDTO;
 import com.bug.demo.micronaut.entities.unidirectional.Address;
 import com.bug.demo.micronaut.entities.unidirectional.House;
 import com.bug.demo.micronaut.entities.unidirectional.Room;

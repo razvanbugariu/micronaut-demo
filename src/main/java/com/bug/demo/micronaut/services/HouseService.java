@@ -1,8 +1,8 @@
 package com.bug.demo.micronaut.services;
 
-import com.bug.demo.micronaut.entities.AddressDTO;
-import com.bug.demo.micronaut.entities.HouseDTO;
-import com.bug.demo.micronaut.entities.RoomDTO;
+import com.bug.demo.micronaut.entities.unidirectional.AddressDTO;
+import com.bug.demo.micronaut.entities.unidirectional.HouseDTO;
+import com.bug.demo.micronaut.entities.unidirectional.RoomDTO;
 import com.bug.demo.micronaut.entities.unidirectional.Address;
 import com.bug.demo.micronaut.entities.unidirectional.House;
 import com.bug.demo.micronaut.entities.unidirectional.Room;

@@ -1,4 +1,4 @@
-package com.bug.demo.micronaut.entities;
+package com.bug.demo.micronaut.entities.unidirectional;
 
 import java.util.List;
 
